@@ -1,12 +1,13 @@
-# Name of the topic
-
+---
+name: Fortnight Chat
+about: Suggest a topic for future meetups
+title: ''
+labels: ''
+assignees: ''
+---
 ## Context
 
 Tell me why
-
-## Proposed host
-
-Tag someone here
 
 ## Resources
 
