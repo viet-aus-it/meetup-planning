@@ -2,3 +2,11 @@
 
 This repository is a place to plan our meetup topics in the form of Issues and
 tracked using Projects.
+
+## Lodge a new topic
+
+To lodge a new topic, please [lodge a new Issue](https://github.com/viet-aus-it/meetup-planning/issues/new?template=fireside_chat.md "New issue URL").
+
+## Topics tracking
+
+To see what topic is coming up, please refer to the [Project board](https://github.com/viet-aus-it/meetup-planning/projects/1 "Project board URL").
