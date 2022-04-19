@@ -14,7 +14,7 @@ In the interest of fostering an open and welcoming discussion, we would like you
 
 VAIT là một cộng đồng an toàn và hoang nghên các thành viên mới. Ban tổ chức của chương trình fireside-chat hy vọng các bạn hiểu rõ và tuân theo các điều lệ sau:
 
-1. Không mạt sát, xúc phạm người khác, phân biệt chủng tộc, giới tính, công kích hoặc khủng bố tinh thần bất cứ.
+1. Không mạt sát, xúc phạm, phân biệt chủng tộc, giới tính, công kích hoặc khủng bố tinh thần người khác.
 2. Không quảng cáo sản phẩm hoặc chương trình nào khi ban tổ chức chưa duyệt.
 3. Tránh bàn luận các vấn đề tôn giáo, chính trị.
 4. Không công khai thông tin cá nhân của bất cứ người nào khi không có sự đồng ý. Tránh công khai địa chỉ hoặc/và số điện thoại trong chương trình.
